@@ -47,18 +47,23 @@ FAQs
 ----
 
 **Q1. Is it necessary to activate my UHC card?**  
+
 Yes, activation ensures your coverage is active and you can access benefits like doctor visits, prescriptions, and digital ID cards.
 
 **Q2. How long does the activation process take?**  
+
 It usually takes just 2–5 minutes if you have your Health Plan ID and basic details handy.
 
 **Q3. Can I activate my UHC card through the mobile app?**  
+
 Yes, after activation on https://activate.uhc.com, you can log into the UHC mobile app and access your card digitally.
 
 **Q4. What if I don’t have my physical card yet?**  
+
 You can still create your account on https://www.myuhc.com and download a digital copy of your ID card.
 
 **Q5. Who do I contact if activation isn’t working?**  
+
 Call UHC customer support at **1-877-844-4999** for immediate assistance.
 
 My Experience
