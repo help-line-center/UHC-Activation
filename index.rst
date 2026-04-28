@@ -5,7 +5,7 @@ How to Easily Activate Your UHC Card Online
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-    <a href="https://unitedhealthcarehelp.helplook.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+    <a href="https://url44.com/?aHR0cHM6Ly91aGNoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
     Activate UHC Card Now
     </a>
     </div>
