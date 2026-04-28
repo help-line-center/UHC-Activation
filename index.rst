@@ -9,7 +9,3 @@ How to Easily Activate Your UHC Card Online
     Activate UHC Card Now
     </a>
     </div>
-
-
-Activating your UnitedHealthcare (UHC) card is an important step to begin using your health benefits. This guide provides general informational steps for activation and accessing your member services securely.
-
