@@ -92,13 +92,13 @@ Activating your UnitedHealthcare card is a simple but essential step to access y
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-    <a href="https://pre.im/?fAEhjk15aubzybWiySpNeaRGxUB2jLsu2XIsP3vZ7xQCR2SZmGLsRtJKbMS" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+    <a href="https://url44.com/?aHR0cHM6Ly91aGNoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
     🔗 Activate UHC Card Now
     </a>
-    <a href="https://pre.im/?fAEhjk15aubzybWiySpNeaRGxUB2jLsu2XIsP3vZ7xQCR2SZmGLsRtJKbMS" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+    <a href="https://url44.com/?aHR0cHM6Ly91aGNoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
     🔗 Manage Your UHC Account
     </a>
-    <a href="https://pre.im/?fAEhjk15aubzybWiySpNeaRGxUB2jLsu2XIsP3vZ7xQCR2SZmGLsRtJKbMS" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+    <a href="https://url44.com/?aHR0cHM6Ly91aGNoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
     🔗 UHC Support
     </a>
     </div>
